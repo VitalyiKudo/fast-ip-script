@@ -1,11 +1,11 @@
 {
-    "name": "metric-script",
+    "name": "@mirukai/fast-ip-check",
     "version": "0.1.0",
-    "description": "module for metric-script",
+    "description": "module for fast-ip data",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "files": [ "dist" ],
-    "author": "arziburst@gmail.com",
+    "author": "https://github.com/VitalyiKudo",
     "repository": {
         "type": "git",
         "url": "https://github.com/Arziburst/mScript"
